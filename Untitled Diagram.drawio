@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T10:19:50.871Z" agent="5.0 (X11)" version="14.2.6" etag="WG54POaNZUIcqLBdGpJp" type="github"><diagram id="W8608z5wfeu2Tj4AKSkI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-21T10:29:27.867Z" agent="5.0 (X11)" etag="9cOct47BcewJAzNT7VDv" version="14.2.6" type="github">
+  <diagram id="W8608z5wfeu2Tj4AKSkI" name="Page-1">
+    <mxGraphModel dx="734" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="Visión de Fe y Confianza 2021" lucidchartObjectId="X.14bZdWKIrF" id="baoQIY4D1pJRypf9BfFC-2">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=40;fontFamily=Pinyon Script;fontColor=#000000;align=center;spacing=0;rounded=1;absoluteArcSize=1;arcSize=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPinyon%2BScript;" vertex="1" parent="1">
+            <mxGeometry x="100" y="36" width="640" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Iglesia Menonita de Suba. Caminos de Esperanza" lucidchartObjectId="UkMlsRCQVLjp" id="baoQIY4D1pJRypf9BfFC-3">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;fontColor=#000000;spacing=0;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=6;fillColor=#ffffff;" vertex="1" parent="1">
+            <mxGeometry x="600" y="972" width="168" height="36" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Familia y Amig@s" lucidchartObjectId="erMl56LG7WLp" id="baoQIY4D1pJRypf9BfFC-4">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;fontSize=18;fontFamily=Roboto;spacing=0;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+            <mxGeometry x="48" y="264" width="288" height="288" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot;&gt;Casa, Abrigo, &lt;br&gt;Alimentación y Salud&lt;/font&gt;" lucidchartObjectId="QrMlu3rrZca." id="baoQIY4D1pJRypf9BfFC-5">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;fontSize=18;fontFamily=Roboto;spacing=0;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+            <mxGeometry x="264" y="120" width="288" height="288" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Barrio, Ciudad,&#xa;País y Caridad" lucidchartObjectId="1rMlFoKdqbXn" id="baoQIY4D1pJRypf9BfFC-6">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;fontSize=18;fontFamily=Roboto;spacing=0;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+            <mxGeometry x="480" y="264" width="288" height="288" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Dios, Iglesia y &#xa;Ministerio" lucidchartObjectId="ksMl.smRjiXm" id="baoQIY4D1pJRypf9BfFC-7">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;fontSize=18;fontFamily=Roboto;spacing=0;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+            <mxGeometry x="264" y="408" width="288" height="288" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Educación" lucidchartObjectId="OsMlFc-oFZbU" id="baoQIY4D1pJRypf9BfFC-8">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;fontSize=18;fontFamily=Roboto;spacing=0;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+            <mxGeometry x="48" y="552" width="288" height="288" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Recreación" lucidchartObjectId="9sMlwAPWAeXS" id="baoQIY4D1pJRypf9BfFC-9">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;fontSize=18;fontFamily=Roboto;spacing=0;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+            <mxGeometry x="480" y="552" width="288" height="288" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Trabajo/Finanzas" lucidchartObjectId="mtMltKOqEJ9I" id="baoQIY4D1pJRypf9BfFC-10">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;fontSize=18;fontFamily=Roboto;spacing=0;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+            <mxGeometry x="264" y="696" width="288" height="288" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
